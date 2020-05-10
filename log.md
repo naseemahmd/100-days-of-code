@@ -9,3 +9,13 @@
 
 **Link(s) to work**
 Exrcises : https://glitch.com/@naseemahmd/100-daysofcode
+
+
+### Day 2: May 10 2020, Sun
+
+**Today's Progress**: Learn Express Middlewares and basics of Kubernetes
+
+**Thoughts** polished my idea of Express Middleware Funtions Learn the big picture of the kubernetes.
+
+**Link(s) to work**
+Exrcises : https://glitch.com/@naseemahmd/100-daysofcode
