@@ -19,3 +19,22 @@ Exrcises : https://glitch.com/@naseemahmd/100-daysofcode
 
 **Link(s) to work**
 Exrcises : https://glitch.com/@naseemahmd/100-daysofcode
+
+
+### Day 3: May 11 2020, Mon
+
+**Today's Progress**: Learned Mogodb and Mangoose basics of Kubernetes
+
+**Thoughts** Mongo Db
+
+**Link(s) to work**
+
+
+### Day 4: May 12 2020, Tue
+
+**Today's Progress**: GraphQl Yoga Server and Prisma 
+
+**Thoughts** polished my idea of GraphQl yoga server and Prisma
+
+**Link(s) to work**
+
