@@ -38,3 +38,51 @@ Exrcises : https://glitch.com/@naseemahmd/100-daysofcode
 
 **Link(s) to work**
 
+### Day 5: May 13 2020, Wed
+
+- #GoogleCloud Fundamentals and Basics of #GoogleCloud 
+- Complete an Activity in #QwikLabs
+
+
+### Day 6: May 14 2020, Ths
+- #GoogleCloud 
+- Virtual Machine in the GCP 
+- Storage In the GCP 
+-2 Activitys in #QWikLabs 
+
+### Day 7: May 15 2020, Fri
+- #GoogleCloud 
+- Containers in the GCP 
+- Application In the GCP 
+- Developing , Deploying ane Monitoring in the GCP cloud 
+-2 Activitys in #QWikLabs 
+
+### Day 8: May 16 2020, Sat
+
+- #GoogleCloud 
+- Big Data and Machine Learning in the #GCP Cloud 
+-2 Activitys in #QWikLabs 
+
+
+### Day 9: May 17 2020, Sun
+
+- 3 Module from Docker Deep Dive Course by 
+@nigelpoulton
+ 
+- 1 Module from Architecture With Google Kubernetes course by #Google 
+
+
+### Day 10: May 18 2020, Mon
+
+- 1 Module from Architecture With Google Kubernetes course by #Google 
+- 1 lab activity form #Qwiklabs 
+
+
+### Day 11: May 21 2020, Ths
+
+- Completed the  Architecture With Google Kubernetes course by #Google 
+- 1 lab activity form #Qwiklabs 
+- 1 Module form Docker Deep Dive course by 
+@nigelpoulton
+ 
+
